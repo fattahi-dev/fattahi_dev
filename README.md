@@ -6,5 +6,5 @@
 💻 Sharing my projects, notebooks, and learning journey  
 
 ## 📫 How to reach me
-- Email: biomedfat@example.com
+- Email: biomedfat@gmail.com
 - LinkedIn:https://www.linkedin.com/in/fatemeh-fattahinafchi-b529611b8/
