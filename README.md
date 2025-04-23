@@ -1,4 +1,4 @@
-# fattahi_dev
+# fatemeh.codes
 # 👋 Hi, I'm Fatemeh Fattahi
 
 🎓 Python enthusiast and data science explorer  
